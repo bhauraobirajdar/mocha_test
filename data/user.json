@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "first_name": "Rahul",
+      "last_name": "Survase",
+      "email": "rahul@gmail.com",
+      "pinCode": 411041,
+      "birthdate": "02-DEC-1988",
+      "is_active": true
+    },
+    {
+      "id": "2",
+      "first_name": "khajaamin",
+      "last_name": "attar",
+      "email": "khajaamin@gmail.com",
+      "pinCode": 411041,
+      "birthdate": "02-DEC-1988",
+      "is_active": true
+    }
+  ]
+}
